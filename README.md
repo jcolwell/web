@@ -1,14 +1,5 @@
 ## Personalized
-This web page has been personalized for use by myself, [Josh Colwell] (http://www.joshcolwell.ca). This page is accessible at 
-
-## Creator
-
-This page was created using template from Start Bootstrap. Which was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+This web page has been personalized for use by myself, [Josh Colwell] (http://www.joshcolwell.ca) using a template web page by [Bootstrap](http://getbootstrap.com/)
 
 ## Copyright and License
 
